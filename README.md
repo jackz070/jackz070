@@ -10,10 +10,13 @@ Hello! My name Is Jacek, I'm a Front-end developer, a freelance photographer, a 
 
 # 🤷 Bio
 
-Having got my Masters in International Relations / Strategic Studies & History and Culture of Jews in Poland I’ve worked for 2,5 years in mental health area, at a self-help Clubhouse following the Clubhouse International Standards of Quality (check it out, it’s an amazing approach to supporting people with mental health problems!). For me it was the time of learning to communicate better, listen to and understand needs of people more deeply and supporting them in finding their agency. This experience led me to realise that what I really need in my life is pursuing the teenage dream that I gave up long time ago - becoming a software developer. 
+ I’ve started studying to become a front-end developer in 2022. First I’ve learnt HTML & CSS and then moved to JavaScript, React and TypeScript. I’m also paying a lot of attention to software testing, both in theory and practice. Big focus for me are the testing tools that allow me to test my code: Cypress, Jest, Vitest, React Testing Library. Right now I’m expanding all those skills by taking courses, making some open source contributions and building by own projects, a selection of which you can find above.
 
-I’ve started learning at the beginning of 2022 with HTML & CSS and moved to JavaScript and React some months later. You can find my projects big & small down below, but one I’m most happy about is a simple photography portfolio webpage that I’ve designed & created to display my work. It’s so good to feel the impact coding can make, how important the result may be to people if it responds to their needs. 
+What I love about software development is feeling the impact it can make, how it may respond to the needs of others and improve their lives. So far, the projects I’m really happy about are my two portfolio websites (photography and web development) that I’ve designed and built from scratch. They help me to reach out with my creations, which makes a world of difference to me!
 
+How did I get here? Having got my Masters in International Relations / Strategic Studies & History and Culture of Jews in Poland I’ve worked for 2,5 years in mental health area, at a self-help Clubhouse that follows the Clubhouse International Standards of Quality (check it out, it’s an amazing approach to supporting people with mental health problems!). For me it was the time of learning to communicate better, listen to and understand needs of people more deeply and supporting them in finding their agency.
+
+This experience led me to realise that what I really need in my life is pursuing the teenage dream that I gave up long time ago - becoming a software developer.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jackz070&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
