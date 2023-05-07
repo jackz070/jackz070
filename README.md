@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name Is Jacek, I'm a Front-end developer, a freelance photographer, a supporter of others (both professionally as an ex-mental health NGO worker and in private life), dog dad and much more.<br><br>🌸 My main focus at the moment is learning to use TypeScript with React. Aaaand finding my first internship or junior position in tech.<br>💬 Ask me about anything, I'm happy to try and help you out!
+Hello! My name Is Jacek, I'm a Front-end developer, a freelance photographer, a supporter of others (both professionally as an ex-mental health NGO worker and in private life), dog dad and much more.<br><br>🌸 My main focus at the moment is learning to use TypeScript with React. Aaaand finding my first internship or junior position in tech.<br>📚 My commit number in April/May 2023 is getting sick! Why is that? The answer is Harvard's CS50x! A lot of coding in C, Python, SQL, JS, CSS and HTML. Love working on my basics! <br>💬 Ask me about anything, I'm happy to try and help you out!
 
 
 ## 🌐 Socials:
